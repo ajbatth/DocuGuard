@@ -1,6 +1,12 @@
 # DocuGuard: Whitener and Overwriting Detection
 
 DocuGuard is a web application designed to detect the use of whitener and instances of overwriting on scanned document images. Using a custom-trained machine learning model, DocuGuard can identify tampered areas and highlight them with bounding boxes. This project is ideal for document verification processes, ensuring the authenticity and integrity of paperwork.
+## Application Interface
+
+Below is the web interface of DocuGuard where users can upload documents to be analyzed:
+
+![DocuGuard Interface](images/whitener_interface.png)
+![DocuGuard Interface](images/overwriting_interface.png)
 
 ## Features
 
