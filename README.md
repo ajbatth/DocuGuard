@@ -6,7 +6,9 @@ DocuGuard is a web application designed to detect the use of whitener and instan
 Below is the web interface of DocuGuard where users can upload documents to be analyzed:
 
 ![DocuGuard Interface](images/whitener_interface.png)
+![DocuGuard Interface](images/whitener_sample.jpeg)
 ![DocuGuard Interface](images/overwriting_interface.png)
+![DocuGuard Interface](images/overwriting_sample.png)
 
 ## Features
 
